@@ -1,12 +1,12 @@
 {
-  "version": "1.4.2",
+  "version": "1.5.0",
   "description": "Toggl Track to timesheet TUI",
   "homepage": "https://github.com/NoahNxT/Toggl2Timeshit",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/NoahNxT/Toggl2Timeshit/releases/download/v1.4.2/timeshit-windows.zip",
-      "hash": "b394276529245b9e9f9e1c1a6543e4696e2e8e871b861fdc2ef9b30c74c02a48"
+      "url": "https://github.com/NoahNxT/Toggl2Timeshit/releases/download/v1.5.0/timeshit-windows.zip",
+      "hash": "c8de155505d188c92152a1729026355962bbfd8b716ced5139a910d99f203155"
     }
   },
   "bin": "timeshit.exe"
